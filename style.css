@@ -1,0 +1,65 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 7rem;
+}
+
+.bi-github {
+  margin-right: 4rem;
+}
+
+.btn-home {
+  display: inline-block;
+}
+
+.btn-cv {
+  background-color: #3983f9;
+  color: #fff;
+}
+
+.btn-cv:hover {
+  background-color: #3983f9;
+  color: #fff;
+}
+
+.btn-contact {
+  background-color: #ee902c;
+  color: #fff;
+}
+
+.btn-contact:hover {
+  background-color: #ee902c;
+  color: #fff;
+}
+
+.left-jumbotron {
+  margin-top: 7rem;
+}
+
+.right-jumbotron {
+  margin-top: 5rem;
+  padding-left: 5rem;
+}
+
+#skills {
+  background-color: #f9fbff;
+}
+
+#projects {
+  background-color: #f9fbff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.sub-head {
+  margin-top: 6rem;
+}
+
+footer {
+  background-color: #3983f9;
+}
